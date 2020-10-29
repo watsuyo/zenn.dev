@@ -1,0 +1,11 @@
+{
+  "name": "zenn.dev",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/watsuyo/zenn.dev.git",
+  "author": "watsuyo <dmwtpdmwtp24@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "zenn-cli": "^0.1.52"
+  }
+}
