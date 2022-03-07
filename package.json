@@ -2,10 +2,22 @@
   "name": "zenn.dev",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/watsuyo/zenn.dev.git",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/watsuyo/zenn.dev.git"
+  },
   "author": "watsuyo <dmwtpdmwtp24@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "zenn-cli": "^0.1.99"
-  }
+    "zenn-cli": "^0.1.107"
+  },
+  "description": "* [📘 How to use](https://zenn.dev/zenn/articles/zenn-cli-guide) * [📘 Markdown guide](https://zenn.dev/zenn/articles/markdown-guide)",
+  "bugs": {
+    "url": "https://github.com/watsuyo/zenn.dev/issues"
+  },
+  "homepage": "https://github.com/watsuyo/zenn.dev#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": []
 }
